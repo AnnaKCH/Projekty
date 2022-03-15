@@ -1,0 +1,3 @@
+# ogólny opis projektu
+
+blabla 
